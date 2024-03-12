@@ -1,0 +1,2 @@
+2024-03-08 19:11:33 - Consulta SQL: INSERT INTO tickets (usuario,email,telefono,area,descripcion,url,agente,mesa,categoria,subcategoria,t_registro,estado,sucursal,f_cierre,estatus) 
+VALUES ('aacarranza@juridico.grupoccima.com.mx','aacarranza@juridico.grupoccima.com.mx','4423542892','Juridico','si','','Yaressi Rodriguez Del Angel','soporte infraestructura','impresora','',NOW(),'abierto','Bernardo Quintana','2024-03-13','activo')
